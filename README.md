@@ -8,8 +8,8 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
 - R
 - Tableau
 
-## Excel
-## SQL
-## R
+## Excel |
+## SQL |
+## R |
 ## Python
 ## Tableau
