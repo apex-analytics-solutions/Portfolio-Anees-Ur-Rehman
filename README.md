@@ -7,3 +7,9 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
 - Python
 - R
 - Tableau
+
+## Excel
+## SQL
+## R
+## Python
+## Tableau
