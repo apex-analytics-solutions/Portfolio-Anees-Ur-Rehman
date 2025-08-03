@@ -14,7 +14,7 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
 <h1><a name="excel">Excel</a></h1>
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Mariyajoseph24/8_Week_SQL_challenge">8 Week SQL challenge🏆</a><br> | "Excel Challenges" : Solutions for a thrilling project that offers Excel case studies! Engaged in real-world data analysis with interactive challenges.<br><p><ul><li>Tools Used🛠️ : Excel Spreadsheet</li></ul></p> | 
+| <a href="#">8 Week SQL challenge🏆</a><br> | "Excel Challenges" : Solutions for a thrilling project that offers Excel case studies! Engaged in real-world data analysis with interactive challenges.<br><p><ul><li>Tools Used🛠️ : Excel Spreadsheet</li></ul></p> | 
 
 ## SQL |
 ## R |
