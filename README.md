@@ -15,7 +15,7 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Mariyajoseph24/8_Week_SQL_challenge">8 Week SQL challenge🏆</a><br> | "#8WeekSQLChallenge" : Solutions for a thrilling project that offers weekly SQL case studies! Engaged in real-world data analysis with interactive challenges.<br><p><ul><li>Tools Used🛠️ : PostgreSQL</li></ul></p> | 
+| <a href="https://github.com/apex-analytics-solutions/Excel_Data_Cleaning">Excel Data Cleaning🏆</a><br> | "#exceldatacleaning" : Solutions for a thrilling project that offers weekly SQL case studies! Engaged in real-world data analysis with interactive challenges.<br><p><ul><li>Tools Used🛠️ : Excel WorkSheet</li></ul></p> | 
 
 <h1><a name="python">Python</a></h1>
 
