@@ -30,6 +30,12 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
 | ------------ | ------------| 
 | <a href="#">Data Analysis Python Projects</a><br> |This project demonstrates the power of data to drive insights across various fields. Using Python and key libraries like Pandas, Numpy, Seaborn, and Matplotlib in a Jupyter Notebook environment, I explored and visualized data to solve real-world problems.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook<br></li></ul></p> | 
 
+<h1><a name="r">R</a></h1>
+
+| Project Link | Description |
+| ------------ | ------------| 
+| <a href="#">Data Analysis R Projects🏆</a><br> | "#R" :I leveraged R to conduct a comprehensive data analysis project. Using a suite of powerful packages, I performed data cleaning, exploratory analysis, and created compelling visualizations to uncover key insights and trends from complex datasets.<br><p><ul><li>Programming language : R</li></ul></p> |
+
 <h1><a name="tableau">Tableau</a></h1>
 
 | Project Link | Description |
