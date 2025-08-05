@@ -11,30 +11,30 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
   <li><a href="#tableau">Tableau</a></li>
 </ul>
 
+<h1><a name="excel">Excel</a></h1>
+
+| Project Link | Description |
+| ------------ | ------------| 
+| <a href="https://github.com/apex-analytics-solutions/Excel_Data_Cleaning">Excel Data Cleaning🏆</a><br> | "#excel" :This project interactive Excel case studies based on real-world data. Each challenge required me to analyze data and build effective solutions, significantly enhancing my proficiency in data manipulation and problem-solving within Excel.<br><p><ul><li>Tools Used🛠️ : Excel WorkSheet</li></ul></p> | 
+
 <h1><a name="sql">SQL</a></h1>
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/apex-analytics-solutions/Excel_Data_Cleaning">Excel Data Cleaning🏆</a><br> | "#excel" : Solutions for a thrilling project that offers weekly SQL case studies! Engaged in real-world data analysis with interactive challenges.<br><p><ul><li>Tools Used🛠️ : Excel WorkSheet</li></ul></p> | 
+| <a href="#"> SQL challenges🏆</a><br> | "SQLChallenges" : This project focused on solving interactive SQL case studies, which honed my skills in data analysis and problem-solving. By engaging with real-world data challenges, I built a strong foundation in manipulating and querying databases effectively.<br><p><ul><li>Tools Used🛠️ : PostgreSQL</li></ul></p> | 
+
 
 <h1><a name="python">Python</a></h1>
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Mariyajoseph24/Spotify_Data_Analysis_Python_Project">Spotify Data Analysis Python Project🎙️</a><br> | The Spotify Data Analysis Project showcases data's role in diverse fields, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores music-related datasets, highlighting data's influence on decisions, research, and prediction, while honing technical skills and industry insights.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook<br></li></ul></p> | 
-
-<h1><a name="powerbi">Power BI</a></h1>
-
-| Project Link | Description |
-| ------------ | ------------| 
-| <a href="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard">Netflix PowerBI Dashboard📺</a><br> | "Netflix Power BI Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.<br><p><ul><li>Tool used🛠️: Power BI🛠</li></p>| 
-| <a href="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard">Superstore PowerBI Dashboard🏪</a><br> | "Superstore Power BI Dashboard" project is dedicated to unraveling the secrets hidden within the Superstore's data treasure trove, offering insights that will guide the organization towards targeted growth, enhanced profitability, and superior decision-making<ul><li>Tool used🛠️: Power BI</li></p> | 
+| <a href="#">Data Analysis Python Projects</a><br> |This project demonstrates the power of data to drive insights across various fields. Using Python and key libraries like Pandas, Numpy, Seaborn, and Matplotlib in a Jupyter Notebook environment, I explored and visualized data to solve real-world problems.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook<br></li></ul></p> | 
 
 <h1><a name="tableau">Tableau</a></h1>
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Mariyajoseph24/Amazon_Sales_India_Tableau_Dashboard">Amazon Sales India Tableau Dashboard💰</a><br> | "Amazon Sales India Tableau Dashboard" project dives deep into Amazon's sales data, offering detailed insights into SKU codes, designs, stock, categories, sizes, colors, and more. This dashboard is a valuable tool for unraveling the complexities of Amazon's operations in India and making data-driven decisions to maximize profitability.<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
+| <a href="#">Tableau Dashboard Projects💰</a><br> | "Developed a dynamic Tableau dashboard to provide key stakeholders with a clear, interactive view of critical business metrics. The dashboard's intuitive design allows for quick analysis and supports data-driven decision-making.<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
 
 
 
