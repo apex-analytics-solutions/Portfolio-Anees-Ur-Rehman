@@ -21,7 +21,7 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="#"> SQL challenges🏆</a><br> | "SQLChallenges" : This project focused on solving interactive SQL case studies, which honed my skills in data analysis and problem-solving. By engaging with real-world data challenges, I built a strong foundation in manipulating and querying databases effectively.<br><p><ul><li>Tools Used🛠️ : PostgreSQL</li></ul></p> | 
+| <a href="https://github.com/apex-analytics-solutions/SQL-Challenges"> SQL challenges🏆</a><br> | "SQLChallenges" : This project focused on solving interactive SQL case studies, which honed my skills in data analysis and problem-solving. By engaging with real-world data challenges, I built a strong foundation in manipulating and querying databases effectively.<br><p><ul><li>Tools Used🛠️ : PostgreSQL</li></ul></p> | 
 
 
 <h1><a name="python">Python</a></h1>
