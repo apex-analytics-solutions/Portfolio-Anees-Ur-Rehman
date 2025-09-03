@@ -17,6 +17,10 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
 | ------------ | ------------| 
 | <a href="https://github.com/apex-analytics-solutions/Excel_Data_Cleaning">Excel Data Cleaning🏆</a><br> | "#excel" :This project interactive Excel case studies based on real-world data. Each challenge required me to analyze data and build effective solutions, significantly enhancing my proficiency in data manipulation and problem-solving within Excel.<br><p><ul><li>Tools Used🛠️ : Excel WorkSheet</li></ul></p> | 
 
+| Project Link | Description |
+| ------------ | ------------| 
+| <a href="https://github.com/apex-analytics-solutions/Credit-Card-Transaction-Analysis-By-Excel">Credit-Card-Transaction-Analysis-By-Excel🏆</a><br> | "#excel" :In this project, I transformed raw credit card transaction data into deep, actionable insights. By building an interactive dashboard, I not only analyzed spending behaviors but also identified potentially fraudulent activities.<br><p><ul><li>Tools Used🛠️ : Excel WorkSheet</li></ul></p> | 
+
 <h1><a name="sql">SQL</a></h1>
 
 | Project Link | Description |
