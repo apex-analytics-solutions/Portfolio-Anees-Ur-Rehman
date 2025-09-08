@@ -7,7 +7,6 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
   <li><a href="#sql">SQL</a></li>
   <li><a href="#python">Python</a></li>
   <li><a href="#r">R</a></li>
-  <li><a href="#powerbi">Power BI</a></li>
   <li><a href="#tableau">Tableau</a></li>
 </ul>
 
