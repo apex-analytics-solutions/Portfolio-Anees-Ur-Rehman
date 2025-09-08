@@ -19,7 +19,11 @@ Welcome to my GitHub repository, a curated showcase of my data-related projects.
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/apex-analytics-solutions/Credit-Card-Transaction-Analysis-By-Excel">Credit-Card-Transaction-Analysis-By-Excel🏆</a><br> | "#excel" :In this project, I transformed raw credit card transaction data into deep, actionable insights. By building an interactive dashboard, I not only analyzed spending behaviors but also identified potentially fraudulent activities.<br><p><ul><li>Tools Used🛠️ : Excel WorkSheet</li></ul></p> | 
+| <a href="https://github.com/apex-analytics-solutions/Credit-Card-Transaction-Analysis-By-Excel">Credit-Card-Transaction-Analysis-By-Excel💳</a><br> | "#excel" :In this project, I transformed raw credit card transaction data into deep, actionable insights. By building an interactive dashboard, I not only analyzed spending behaviors but also identified potentially fraudulent activities.<br><p><ul><li>Tools Used🛠️ : Excel WorkSheet</li></ul></p> | 
+
+| Project Link | Description |
+| ------------ | ------------| 
+| <a href="https://github.com/apex-analytics-solutions/Human-Resources-Employee-Attrition-Analysis">Human-Resources-Employee-Attrition-Analysis📊</a><br> | "#excel" :This project's primary goal was to create an interactive and effective HR dashboard to perform an in-depth analysis of employee attrition trends. Through this process, we not only organized the raw data but also transformed it into actionable insights.<br><p><ul><li>Tools Used🛠️ : Excel WorkSheet</li></ul></p> | 
 
 <h1><a name="sql">SQL</a></h1>
 
